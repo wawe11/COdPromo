@@ -1,0 +1,9 @@
+LogoSpider.png
+Logodino.png
+Logoppy.png
+
+
+txt
+LogoSpider
+Logodino
+Logoppy
